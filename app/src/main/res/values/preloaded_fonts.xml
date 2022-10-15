@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/adamina</item>
+        <item>@font/alata</item>
+        <item>@font/alatsi</item>
+        <item>@font/aleo</item>
+        <item>@font/alice</item>
+        <item>@font/alike_angular</item>
+        <item>@font/allerta</item>
+        <item>@font/news_cycle_bold</item>
+    </array>
+</resources>
