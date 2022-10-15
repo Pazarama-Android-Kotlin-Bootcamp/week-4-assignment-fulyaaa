@@ -1,3 +1,5 @@
+devam ediyor
+
 # Week-4-Assignment
 
 1. https://openweathermap.org/api kullanılarak bir hava durumu uygulaması geliştirilecektir. 2. https://marvelapp.com/prototype/70f2bha/screen/78478137 Buradan mockup ekranlarına bakabilirsiniz.
